@@ -1,0 +1,76 @@
+body{
+    margin: auto;
+    padding: 0;
+    
+}
+
+.navber{
+    margin: 10px;
+    background-color: bisque;
+    padding: 10px;
+   
+
+}
+h2{
+    display: inline;
+    padding: 10px;
+
+}
+.button{
+    text-align: right;
+}
+.nav{
+    border: 2px;
+    background-color: black;
+    overflow: hidden;
+
+
+}
+
+.box{
+    width: 30%;
+    height: 300px;
+    border: 2px;
+    padding: 2px;
+    background-color: rgb(224, 224, 7);
+    margin: 2px;
+}
+.one{
+    float: left;
+    background-color: aqua;
+}
+.two{
+    float: left;
+    background-color: bisque;
+
+}
+.three{
+    float: left;
+    background-color: aquamarine;
+}
+
+footer{
+    background-color: rgb(82, 63, 63);
+   
+
+
+}
+.foter{
+    overflow: hidden;
+    
+}
+.bok{
+font-size: 12px;
+
+
+}
+.bok a{
+ float: left;
+ padding: 3px;
+ background-color: white;
+
+}
+.bok b{
+float: right;
+
+}
